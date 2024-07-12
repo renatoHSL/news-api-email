@@ -3,7 +3,7 @@ from send_email import send_email
 
 topic = "tesla"
 
-api_key = "7ce2552ba0704fb19975b4c33863a065"
+api_key = "YOUR_API_HERE"
 url = "https://newsapi.org/v2/everything?" \
        f"q={topic}&" \
        "from=2024-07-10&" \
